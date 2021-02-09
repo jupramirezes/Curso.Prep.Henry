@@ -1,0 +1,19 @@
+// for = Es un bucle. Un bucle es algo que se repite muchas veces (En este caso las veces que nosotros deseemos).
+    //   Para hacerlo, despues de la palabra for, van unos parentesis, y allí adentro van 3 expresiones separadas
+    //   por punto y coma. La primera es la declaración de una variable que es la que se va a contar durante el bucle,
+    //   la segunda es una condicion para esta variable, que se evalua antes de cada iteracion del bucle y solo se
+    //   ejecuta si esta condicion es cierta, sino se detiene el bucle y la tercera expresion es la que se evalua al
+    //   final de cada iteracion del bucle, se usa para incrementar o actualizar la variable del contador y empezar
+    //   otra iteracion. Luego de los parentesis van unos {}, que es donde ira la sentencia, que es lo que se ejecuta
+    //   mientras la condicion de bucle siga siendo verdadera.
+
+// && = Es un operador logico que signiica "Y", va dentro del parentesis de la condicion y devuelve un valor
+//      booleano al evaluarla (True o False); True si ambas condiciones son verdaderas y False si almenos una
+//      de las condiciones es falsa.
+
+// || = Es un operador logico que signiica "O", va dentro del parentesis de la condicion y devuelve un valor
+//      booleano al evaluarla (True o False); True si almenos una de las condiciones es verdadera y False si ambas
+//      condiciones son falsas.
+
+// ! = Es un operador logico que significa "NO", va dentro del parentesis de la condicion, antes del operando y devuelve un valor
+//     booleano al evaluarlo (True o False); False si su unico operando puede ser true, True si ocurre lo contrario.
