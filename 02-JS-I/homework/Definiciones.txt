@@ -1,0 +1,9 @@
+//Variables = Es un elemento en forma de palabra, que se usa para almacenar cualquier cosa dentro del codigo, sea un numero, un nombre o lo que queramos almacenar en ella.
+
+//String = Es la forma como el codigo guarda cadenas de caracteres, pueden ser letras, numeros o simbolos, una palabra por ejemplo es una cadena de varias letras. Ya en el codigo podemos hacercon estas cadenas lo que queramos.
+
+//Funciones = Es la forma en que agrupamos vario codigo para invocarlo y utilizarlo despues, le damos un nombre a esta funcion y algo de lo que depender (argumentos), para luego utlizarla cuando necesitemos que este codigo se ejecute. Cuando el codigo se ejecuta, queremos que nos de un resultado de este, para eso utilizamos return, que nos da el resultado que le definimos dentro del codigo de la funcion.
+
+//Declaraciones = En este cao "if", es una declaracion o condicion que puede ser evaluada como verdadera o falsa, por lo tanto hacemos que nos de un resultado en cada uno de los casos mediante el codigo que le asignemos a esta condicion.
+
+//Valores Booleanos = Son los valores que evaluan la condicion, si es verdadera o falsa (True - False) y por lo tanto hacen que dependiendo del booleano que se cumpla, se ejecute un tipo de accion definida en el codigo de la condicion.
