@@ -1,0 +1,3 @@
+// Arrays = En español arreglo o matriz, es la forma de organizar varios elementos, sea cual sea el tipo de estos 
+//          en una sola variable, y que con diferentes metodos y operaciones podamos utilizar cada uno de estos
+//          elementossin necesidad de haber creado una variablepara cada uno de ellos.
