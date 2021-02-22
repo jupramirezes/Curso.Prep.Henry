@@ -1,0 +1,22 @@
+// Objetos = Son una colección de datos de una sola cosa (A diferencia de los arreglos), usando un concepto
+//           llamado "clave:valor", donde la clave es la propiedad o método y el valor es el valor que se guarda
+//           en esa propiedad, o si es un método, el valor es la función.
+
+// Propiedades = Son las claves (Key) de los objetos, que quiere decir que son el identificador de esos valores
+//               que pueden ser de cualquier tipo de dato. Son únicas en cada objeto y siempre tienen asignado 
+//               un valor.
+
+// Métodos = Son una propiedad pero que a su vez es una función, es también única en este objeto y puede ser 
+//           invocada, cambiada o eliminada al igual que cualquier propiedad.
+
+// Bucle for...in = Es un bucle que se utiliza para recorrer todas las claves del objeto en cuestión, y que
+//                  termina al iterar todas estas, se invoca como: for (let clave in objeto) {Acciones que 
+//                  quiero que realice}.
+
+// Notación de puntos vs Notación de corchetes = Estas notaciones son formas de acceder alos valores de una 
+//                                               clave en específico, se puede usar cualquiera de las dos. En 
+//                                               la notación de puntos, simplemente se declara el objeto, 
+//                                               seguido de un punto y de la propiedad que se quiere saber el
+//                                               valor. En la notación de corchetes es parecido a los arreglos
+//                                               usando el objeto, seguido de corchetes que contengan una 
+//                                               variable o una cadena/número que identifique a esa clave.
