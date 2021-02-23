@@ -1,0 +1,3 @@
+// Callback = Es una llamada de vuelta, es la forma como Javascript, llama de nuevo una función, al utilizarla
+//            como parámetro de otra función y así ejecutarla. Al ejecutar la segunda función con la "callback"
+//            como parámetro, se ejecuta esta misma.
