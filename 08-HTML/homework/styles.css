@@ -2,8 +2,8 @@ h1 {color:blueviolet;}
 img {width: 400px;}
 #thirdDiv { height: 600px;
             width: 500px;
-            background: moccasin; 
+            background-color: moccasin; 
             padding: 50px;
-            border: 2px dotted darkslategray;}
+            border: 3px dotted darkslategray;}
 #spanId {font-size: 18px;
             margin: 50px;}
