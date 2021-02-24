@@ -1,0 +1,8 @@
+// Prototype = Javascript, creo algo para que no se tengan que crear miles de objetos sino que los que creemos y usemos ya tengan
+//             referencias de otros objetos superiores y por lo tanto en estos se pueda usar sus métodos y propiedades propias en 
+//             nuestros objetos, es como un simil, que nos ayuda con funciones que no tiene nuestro objeto.
+
+// Constructors (De clases) = Es un método o función de la clase, se usa para establecer las propiedades del objeto o para llamar
+//                            a los métodos para preparar el objeto para su uso. Con estos constructores juntamos la mayor cantidad
+//                            de propiedades para que los objetos creados dentro de esta clase, compartan las mismas propiedades y
+//                            se cree la plantilla.
